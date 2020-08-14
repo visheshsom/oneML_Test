@@ -29,36 +29,7 @@
             "name": "Healthcare devices",
             "slug": "healthcare-devices",
             "image": "IMG-20190921-WA0002.jpg"
-        },
-        {
-            "id": "14",
-            "name": "Personal Care",
-            "slug": "personal-care",
-            "image": "IMG-20190921-WA0009.jpg"
-        },
-        {
-            "id": "15",
-            "name": "Health Conditions",
-            "slug": "health-conditions",
-            "image": "IMG-20190921-WA0003.jpg"
-        },
-        {
-            "id": "16",
-            "name": "Ayurveda Products",
-            "slug": "ayurveda-products",
-            "image": "IMG-20190921-WA0008.jpg"
-        },
-        {
-            "id": "17",
-            "name": "Pet Care",
-            "slug": "pet-care",
-            "image": "PC1.jpg"
-        },
-        {
-            "id": "18",
-            "name": "Allopathic Medicine",
-            "slug": "allopathic-medicine",
-            "image": "IMG-20190921-WA0007.jpg"
         }
+    
    ]
     
