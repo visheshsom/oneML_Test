@@ -1,64 +1,65 @@
-[
-       {
-            "id": "4",
-            "name": "Homoeopathy",
-            "slug": "homoeopathy",
-            "image": "IMG-20190921-WA0001.jpg"
-        },
-        {
-            "id": "5",
-            "name": "Sexual Wellness",
-            "slug": "sexual-wellness",
-            "image": "IMG-20190921-WA0005.jpg"
-        },
-        {
-            "id": "11",
-            "name": "Fitness & Supplements",
-            "slug": "fitness-supplements",
-            "image": "IMG-20190921-WA0004.jpg"
-        },
-        {
-            "id": "12",
-            "name": "Diabetes",
-            "slug": "diabetes",
-            "image": "IMG-20190921-WA0006.jpg"
-        },
-        {
-            "id": "13",
-            "name": "Healthcare devices",
-            "slug": "healthcare-devices",
-            "image": "IMG-20190921-WA0002.jpg"
-        },
-        {
-            "id": "14",
-            "name": "Personal Care",
-            "slug": "personal-care",
-            "image": "IMG-20190921-WA0009.jpg"
-        },
-        {
-            "id": "15",
-            "name": "Health Conditions",
-            "slug": "health-conditions",
-            "image": "IMG-20190921-WA0003.jpg"
-        },
-        {
-            "id": "16",
-            "name": "Ayurveda Products",
-            "slug": "ayurveda-products",
-            "image": "IMG-20190921-WA0008.jpg"
-        },
-        {
-            "id": "17",
-            "name": "Pet Care",
-            "slug": "pet-care",
-            "image": "PC1.jpg"
-        },
-        {
-            "id": "18",
-            "name": "Allopathic Medicine",
-            "slug": "allopathic-medicine",
-            "image": "IMG-20190921-WA0007.jpg"
-        }
-    
-    
-]
+{
+
+	"categories": [{
+			"id": "4",
+			"name": "Homoeopathy",
+			"slug": "homoeopathy",
+			"image": "IMG-20190921-WA0001.jpg"
+		},
+		{
+			"id": "5",
+			"name": "Sexual Wellness",
+			"slug": "sexual-wellness",
+			"image": "IMG-20190921-WA0005.jpg"
+		},
+		{
+			"id": "11",
+			"name": "Fitness & Supplements",
+			"slug": "fitness-supplements",
+			"image": "IMG-20190921-WA0004.jpg"
+		},
+		{
+			"id": "12",
+			"name": "Diabetes",
+			"slug": "diabetes",
+			"image": "IMG-20190921-WA0006.jpg"
+		},
+		{
+			"id": "13",
+			"name": "Healthcare devices",
+			"slug": "healthcare-devices",
+			"image": "IMG-20190921-WA0002.jpg"
+		},
+		{
+			"id": "14",
+			"name": "Personal Care",
+			"slug": "personal-care",
+			"image": "IMG-20190921-WA0009.jpg"
+		},
+		{
+			"id": "15",
+			"name": "Health Conditions",
+			"slug": "health-conditions",
+			"image": "IMG-20190921-WA0003.jpg"
+		},
+		{
+			"id": "16",
+			"name": "Ayurveda Products",
+			"slug": "ayurveda-products",
+			"image": "IMG-20190921-WA0008.jpg"
+		},
+		{
+			"id": "17",
+			"name": "Pet Care",
+			"slug": "pet-care",
+			"image": "PC1.jpg"
+		},
+		{
+			"id": "18",
+			"name": "Allopathic Medicine",
+			"slug": "allopathic-medicine",
+			"image": "IMG-20190921-WA0007.jpg"
+		}
+	]
+
+}
